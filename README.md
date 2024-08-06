@@ -1,1 +1,1 @@
-This is a basic project/assignment where I used Django to connect a couple of tables in a website to the PostgreSQL database. I was able to make changes on the website that would be saved and changed in the database
+This is a basic project/assignment where I used Django to connect a couple of tables in a website to the PostgreSQL database. I was able to make changes on the website that would be saved and changed in the database. I removed the settings.py from the files
